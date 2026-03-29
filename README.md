@@ -1,4 +1,4 @@
-### Project Based Experiments
+# Project Based Experiments
 ## NARRA AKHIL - 212223230136 
 ## Objective :
  Build a Multilayer Perceptron (MLP) to classify handwritten digits in python
